@@ -361,6 +361,7 @@ form .btn2{
     font-size: 18px;
     margin-top: 20px;
     cursor: pointer;
+    border-radius: 20px;
 }
 /*small screen*/
 nav .fa-solid{
